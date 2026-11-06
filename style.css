@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+
+
+.bottom-section-paragraph {
+    font-size: 13px;
+    font-family: "Roboto";
+
+}
+
+.bottom-section-heading {
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.bottom-bg-section {
+    background-color: #08a3a0;
+}
+
+.menu-item-link {
+    color: #D4AF37;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    text-align: end;
+}
+
+.volg-card-section-paragrpah1 {
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.volg-card-section-heading {
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Roboto";
+    align-items: center;
+
+}
+
+.volg-page-section-heading {
+    color: #D4AF37;
+    font-family: "cursive";
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.volg-page-section-paragraph {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.contact-button {
+    color: white;
+    background-color: #08a3a0;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 18px;
+    height: 50px;
+    width: 150px;
+    font-weight: bold;
+}
+
+.aboutus-contact-heading {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.aboutus-contact-paragraph {
+    font-size: 8px;
+
+}
+
+.aboutus-section-heading {
+    color: #D4AF37;
+    font-family: "cursive";
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.aboutus-section-pragraph {
+    color: black;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.aboutus-section-pragraph1 {
+    font-size: 15px;
+    font-family: "Roboto";
+}
+
+.Featur-card-section-paragraph1 {
+    color: #D4AF37;
+    font-weight: bold;
+}
+
+.Featur-card-section-paragraph {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.Featur-card-section-heading {
+    height: 40px;
+    width: 100px;
+    background-color: #08a3a0;
+    color: white;
+    font-weight: bold;
+    font-family: "Roboto";
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+    border-radius: 10px;
+    border-width: 0px;
+
+}
+
+.Featur-section-paragraph {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.Featur-section-heading {
+    color: #D4AF37;
+    font-family: "cursive";
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.destination-page-card-paragraph {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.destination-page-card-heading {
+    color: #D4AF37;
+    font-family: "cursive";
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.destination-page-heading {
+    color: #D4AF37;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: "cursive";
+}
+
+.destination-page-paragraph {
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    font-family: "Roboto";
+}
+
+.banner-section-button2 {
+    color: black;
+    background-color: transparent;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 1px;
+    font-size: 15px;
+    border-color: black;
+    height: 50px;
+    width: 120px;
+}
+
+.banner-section-button1 {
+    color: white;
+    background-color: #08a3a0;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-size: 15px;
+    height: 50px;
+    width: 120px;
+}
+
+.banner-section-heading {
+    color: #D4AF37;
+    font-family: "cursive";
+    font-size: 40px;
+
+}
+
+.banner-section-heading1 {
+    color: black;
+    font-family: "serif";
+    font-size: 45px;
+
+}
+
+.banner-section-paragrah {
+    color: black;
+    font-size: 15px;
+}
+
+.navbackground {
+    background-color: #08a3a0;
+}
+
+.Booking-button {
+    color: #08a3a0;
+    background-color: white;
+    height: 40px;
+    width: 120px;
+    border-radius: 5px;
+    font-size: 10px;
+    border-width: 0px;
+    padding: 3px;
+
+}
